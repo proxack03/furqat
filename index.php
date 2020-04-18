@@ -2,9 +2,9 @@
 /**
  *Author: Tilon
  *
- *Telegram : @TILON
+ *Telegram : @Furqat1905
  */
-$API_KEY = 'token';
+$API_KEY = '1242730229:AAHBlJe7xuie36sPHylp0oN6KNmTDcJaE9I';
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
