@@ -1,6 +1,6 @@
 <?php 
 /**
- *Author: Tilon
+ *Author: Furqat
  *
  *Telegram : @Furqat1905
  */
